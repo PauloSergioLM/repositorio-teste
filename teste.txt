@@ -2,10 +2,7 @@ teste
 
 Teste brabo 2
 
+
 alterar por computador
-.
-.
-.
-.
-.
-é
+add por github
+
